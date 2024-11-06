@@ -34,7 +34,9 @@ output_directory/
 ```
 
 Sample data provided in the below folders:
+
 ./annotations
+
 ./images
 
 
